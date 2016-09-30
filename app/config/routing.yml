@@ -1,0 +1,4 @@
+location:
+    resource: "@LocationBundle/Controller/"
+    type:     annotation
+    prefix:   /
